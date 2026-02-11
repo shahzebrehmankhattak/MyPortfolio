@@ -5,6 +5,11 @@ const Projects = () => {
   const cardProjects = [
 
     {
+      title: "Fuchka Xpress",
+      Description: "Project build in React js tailwind css with advance react hooks and components .This is Client project",
+      link: "https://fuchkaexpress-61g7.vercel.app/",
+    },
+    {
       title: "Sky  Angel Game",
       Description: "Project build in Html Css Javascript.Purpose is just to show skills ",
       link: "https://skyangel-game.vercel.app/",
@@ -90,7 +95,7 @@ const Projects = () => {
             <Grid item md={3} sm={6} xs={12}>
               <Card
                 sx={{
-               minHeight:{lg:'150px',xs:'120px'},
+               minHeight:{lg:'180px',xs:'120px'},
                   borderRadius: "20px",
                   boxShadow: "3px 3px 6px #c4cfd4, -3px -3px 6px #fff",
                  
