@@ -5,6 +5,11 @@ const Projects = () => {
   const cardProjects = [
 
     {
+      title: "Tahwul Assement",
+      Description: "Project build in React js tailwind css antd  with advance react hooks and components .This is Assesment test for a company",
+      link: "https://tahwuk-assesment-htv5.vercel.app/",
+    },
+    {
       title: "Fuchka Xpress",
       Description: "Project build in React js tailwind css with advance react hooks and components .This is Client project",
       link: "https://fuchkaexpress-61g7.vercel.app/",
