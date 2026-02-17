@@ -5,6 +5,11 @@ const Projects = () => {
   const cardProjects = [
 
     {
+      title: "Invest Qatar",
+      Description: "Project build in built in pure html css javascript .Animations are added using js and css animation .Full responsive using media queries",
+      link: "https://applab-assesment.vercel.app/",
+    },
+    {
       title: "Tahwul Assement",
       Description: "Project build in React js tailwind css antd  with advance react hooks and components .This is Assesment test for a company",
       link: "https://tahwuk-assesment-htv5.vercel.app/",
