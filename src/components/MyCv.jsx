@@ -51,7 +51,7 @@ const MyCv = (prop) => {
               mt:2
             }}
             className="btn hvr-sweep-to-right"
-            onClick={() => generatePDF(targetRef, { filename: "ShahzebCv.pdf" })}
+            onClick={() => generatePDF(targetRef, { filename: "Shahzeb Rehman Khattak.pdf" })}
           >
             Download
           </Button>

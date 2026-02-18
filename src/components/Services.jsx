@@ -42,10 +42,11 @@ const Services = () => {
       </Grid>
 
       <Grid container spacing={2} sx={{ padding: "25px" }}>
-        {cardService.map((item) => {
+        {cardService.map((item, index) => {
           return (
             <Grid item md={3} sm={6} xs={12}>
               <Card
+              key={index}
                 sx={{
               
                   borderRadius: "20px",
