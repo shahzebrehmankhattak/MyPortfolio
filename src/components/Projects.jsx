@@ -23,8 +23,7 @@ const Projects = () => {
     },
     {
       title: "Forgotten Women Org",
-      Description:
-        "Project is built in pure worpdress wp bakery.Custom design is given so mostly css is custom used with drag and drop functionality",
+      Description: "Project is built in pure worpdress wp bakery.Custom design is given so mostly css is custom used with drag and drop functionality",
       link: "https://forgottenwomen.org/",
     },
     {
@@ -179,7 +178,6 @@ const Projects = () => {
                         fontSize: "14px",
                         fontFamily: "Montserrat, sans-serif",
                         color: "#77B1D4",
-                        fontFamily: "Montserrat, sans-serif",
                         fontWeight: 600,
                         textDecoration: "none",
                         cursor: "pointer",
